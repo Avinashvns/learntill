@@ -10,8 +10,8 @@ void main(){
       ),
       body: Center(
         child: Image(
-          image: NetworkImage(
-              "https://wallpaper-house.com/data/out/9/wallpaper2you_335175.jpg"
+          image: AssetImage(
+              "asset/akshay.jpg"
           ),
         ),
       ),
